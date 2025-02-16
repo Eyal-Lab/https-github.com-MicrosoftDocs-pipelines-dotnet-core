@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: my-personal-computer
+  vmImage: My-Personal-computer
 
 steps:
 - script: echo Hello, world!
